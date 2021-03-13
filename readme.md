@@ -24,7 +24,6 @@ This data set includes information about individual rides made in a bike-sharing
 
 ## Key Insights for Presentation
 
-- Users' Age, Gender, and Type.
-- Trips in each day of week and in each hour of day.
-- Relation between User Type, Trip Duration, and Users' Age
-- Relation between Users' Gender, Trip Duration, and Users' Age.
+For the presentation, I first introduced simple visualizations of the number users according to type and gender, and a distribution of their ages, then for the count of the trips in each day and in each hour. I mostly used bar charts and histograms for these univariate visualizations.
+
+After that, I focused on the findings of the relationship between a categorical and numerical variables which are: users' type and age, and users' gender and age, to find their influence on their trip duration.
